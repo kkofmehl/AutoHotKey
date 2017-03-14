@@ -1,4 +1,4 @@
-;html.ahk
+﻿;html.ahk
 ;HTML/CSS SNIPPITS
 ;/////////////////////////////////////////////
 ; Include this file in your AutoHotKey.ahk for some nice html snippit short-cuts

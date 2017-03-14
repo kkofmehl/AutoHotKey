@@ -1,4 +1,4 @@
-;javascript.ahk
+﻿;javascript.ahk
 ;JAVASCRIPT/Jquery SNIPPITS
 ;/////////////////////////////////////////////
 ; Include this file in your AutoHotKey.ahk for some nice javascript snippit short-cuts
